@@ -1,6 +1,6 @@
 # AWS Monitoring Scripts
 
-A package built from the [AWS monitoring scripts] [aws] to send statistics to Amazon CloudWatch. The scripts support the following:
+A package built from the AWS [monitoring scripts] to send statistics to Amazon CloudWatch. The scripts support the following:
 
   - Memory
   - Swap space
@@ -23,4 +23,4 @@ In order to send data to Amazon CloudWatch, the instance needs to have an IAM pr
 
 This package can be installed using your distro package manager.
 
-   [aws]: <http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/mon-scripts.html>
+   [monitoring scripts]: <http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/mon-scripts.html>
